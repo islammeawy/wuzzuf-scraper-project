@@ -96,14 +96,10 @@ Islam Osama
 GitHub • LinkedIn
 Python Web Scraping & Automation Expert
 
-💼 Need a custom scraper or automation bot?
-👉 Available for freelance work on Fiverr (insert your Fiverr link)
+
 
 yaml
-Copy
-Edit
 
----
 
 
 
