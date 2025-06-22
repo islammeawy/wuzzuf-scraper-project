@@ -105,7 +105,6 @@ Edit
 
 ---
 
-✅ Let me know if you want me to generate the `requirements.txt`, `.gitignore`, or help prepare your GitHub commit message.
 
 
 
